@@ -1,0 +1,11 @@
+b4bfe3d1dbbd157f22575fb36f986170 *DESCRIPTION
+c092488699d7f1ab5c443b8b4e31d57a *NAMESPACE
+3f5506d170ef20bebdf38a462a240b27 *R/awot.R
+400f9bcda5e11c993e55b79d0d79f19b *R/awot_null.R
+ff4d78ad9294bcb0ac6f7580b1eab4e3 *R/cwot.R
+e9139adab716b6c99a79f9f60dc69762 *R/cwot_null.R
+ab0aee4cdaebdc3d0bc18e290d989ed5 *R/helpers.R
+d621bbee7abd04584817f888a19bffef *man/awot.Rd
+0ccddf616724096028c70743ba2ea047 *man/awot_null.Rd
+272e6cd10c9c1bbada31a75f9475595d *man/cwot.Rd
+c30b798d33b81b0b454cefff2d6e150d *man/cwot_null.Rd
